@@ -1,13 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-Implement the login functionality
-Hello world!
-
-H.T
-=======
-Case 1
->>>>>>> 4ed8e34 (Case 1)
-=======
-Case 2
->>>>>>> 8c899ec (Case 1)
+fixing a security issue in the login system
